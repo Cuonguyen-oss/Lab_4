@@ -1,0 +1,13 @@
+../Core/Src/scheduler.c:23:17:SCH_EnterCritical	16	static,ignoring_inline_asm
+../Core/Src/scheduler.c:32:13:SCH_ExitCritical	24	static,ignoring_inline_asm
+../Core/Src/scheduler.c:45:16:SCH_TimeReached	16	static
+../Core/Src/scheduler.c:61:16:SCH_TaskComesBefore	24	static
+../Core/Src/scheduler.c:89:17:SCH_FindFreeIDLocked	24	static
+../Core/Src/scheduler.c:123:16:SCH_InsertTaskLocked	40	static
+../Core/Src/scheduler.c:159:17:SCH_RemoveTaskAtLocked	40	static
+../Core/Src/scheduler.c:183:6:SCH_Init	16	static
+../Core/Src/scheduler.c:212:6:SCH_Update	4	static
+../Core/Src/scheduler.c:225:10:SCH_Add_Task	56	static
+../Core/Src/scheduler.c:278:9:SCH_Delete_Task	40	static
+../Core/Src/scheduler.c:311:6:SCH_Dispatch_Tasks	72	static
+../Core/Src/scheduler.c:391:10:get_time	16	static

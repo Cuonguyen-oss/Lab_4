@@ -1,0 +1,5 @@
+../Core/Src/output.c:4:6:ledRedToggle	1
+../Core/Src/output.c:8:6:ledYellowToggle	1
+../Core/Src/output.c:12:6:ledGreenToggle	1
+../Core/Src/output.c:16:6:ledAquaToggle	1
+../Core/Src/output.c:20:6:ledBlueToggle	1
